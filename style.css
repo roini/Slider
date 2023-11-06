@@ -54,7 +54,7 @@ body{
   position: absolute;
   left: 0;
   height: 100%;
-  width: 100%;
+  width: 1020px;
   background: #343F4F;
   border-left: 2px solid #FC6D6D;
   animation: typing 3s steps(10) infinite;
