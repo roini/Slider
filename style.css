@@ -9,7 +9,7 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 380px;
+  min-height: 100vh;
   background: #343F4F;
 }
 .wrapper{
