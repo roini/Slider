@@ -10,7 +10,11 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #343F4F;
+ 
+}
+.sliderArea{
+  height:380px;
+   background: #343F4F;
 }
 .wrapper{
   display: flex;
